@@ -1,18 +1,40 @@
-### Hi there 👋
+# Hi there! 👋
+
+## 🚀 About Me
 
 [ajaymtora.uk](https://ajaymtora.uk/)
 
-<!--
-**Ajaymamtora/Ajaymamtora** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a developer who works with **Neovim, Angular, Linux**, with a focus on **automation**. 🖥️
 
-Here are some ideas to get you started:
+- 🛠 **Neovim enthusiast** – Configuring with Lua and crafting custom workflows.
+- 🌐 **Angular Developer** – Building payroll software and enterprise applications.
+- 🐧 **Linux & Shell Scripting** – Always looking for ways to streamline tasks.
+- 🤖 **Automation Lover** – Automating repetitive processes for efficiency.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🔧 Tech Stack
+
+![Neovim](https://img.shields.io/badge/Editor-Neovim-57A143?logo=neovim)
+![Angular](https://img.shields.io/badge/Framework-Angular-DD0031?logo=angular)
+![Bash](https://img.shields.io/badge/Shell-Bash-121011?logo=gnu-bash)
+![Linux](https://img.shields.io/badge/OS-Linux-FCC624?logo=linux)
+
+---
+
+## 🔥 Projects & Contributions
+
+🔹 **[Theme Generator](https://github.com/Ajaymamtora/theme-generator)** – Generates themes using palettes defined in JSON, supporting various Linux tools and Neovim, and follows Material Design 3 principles.  
+🔹 **[Telescope Corrode2](https://github.com/Ajaymamtora/telescope-corrode2.nvim)** – A file search tool that leverages ripgrep and fd to minimize Lua parsing, resulting in significantly faster file searches.
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight)
+
+---
+
+## 🌐 Portfolio
+
+My portfolio is built using **Astro** and includes **WebAssembly** for performance enhancements. The design was crafted in **Figma**, showcasing my frontend development and design skills.
