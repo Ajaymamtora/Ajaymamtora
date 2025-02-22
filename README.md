@@ -31,7 +31,7 @@ I'm a developer who works with **Neovim, Angular, Linux**, with a focus on **aut
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ajaymamtora&show_icons=true&theme=tokyonight)
 
 ---
 
