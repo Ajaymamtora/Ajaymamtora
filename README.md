@@ -4,12 +4,11 @@
 
 [ajaymtora.uk](https://ajaymtora.uk/)
 
-I'm a developer who works with **Neovim, Angular, Linux**, with a focus on **automation**. 🖥️
+I'm a developer who works with **Angular, Linux**, with a focus on **automation**. 🖥️
 
-- 🛠 **Neovim enthusiast** – Configuring with Lua and crafting custom workflows.
 - 🌐 **Angular Developer** – Building payroll software and enterprise applications.
 - 🐧 **Linux & Shell Scripting** – Always looking for ways to streamline tasks.
-- 🤖 **Automation Lover** – Automating repetitive processes for efficiency.
+- 🤖 **Automation** – Automating repetitive processes for efficiency.
 
 ---
 
