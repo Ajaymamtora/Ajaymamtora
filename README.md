@@ -13,7 +13,7 @@ I'm a developer who works with **Angular, Linux**, with a focus on **automation*
 ![Linux](https://img.shields.io/badge/OS-Linux-FCC624?logo=linux)
 ---
 ## 🔥 Projects & Contributions
-🔹 **[IJ Sibling File Selector](https://github.com/Ajaymamtora/ij-sibling-file-selector)** – An IntelliJ IDEA plugin that enhances navigation between related files, making it easier to switch between component files (like .ts, .html, .scss) in Angular projects.  
+🔹 **[IJ Sibling File Selector](https://github.com/Ajaymamtora/ij-sibling-file-selector)** – An IntelliJ IDEA plugin that enhances navigation between related files, making it easier to switch between component files (like .ts, .html, .scss, for example in Angular projects).  
 🔹 **[Theme Generator](https://github.com/Ajaymamtora/theme-generator)** – Generates themes using palettes defined in JSON, supporting various Linux tools and Neovim, and follows Material Design 3 principles.  
 🔹 **[Telescope Corrode2](https://github.com/Ajaymamtora/telescope-corrode2.nvim)** – A file search tool that leverages ripgrep and fd to minimize Lua parsing, resulting in significantly faster file searches.
 ---
