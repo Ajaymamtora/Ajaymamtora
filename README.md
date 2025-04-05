@@ -13,5 +13,5 @@ I'm a developer who works with **Angular, Linux**, with a focus on **automation*
 
 🔹 **[Theme Generator](https://github.com/Ajaymamtora/theme-generator)** – Generates themes using palettes defined in JSON, supporting various Linux tools and Neovim, and follows Material Design 3 principles.
 
-## 🌐 Portfolio
+## Portfolio
 My portfolio is built using **Astro** and includes **WebAssembly** for performance enhancements. The design was crafted in **Figma**, showcasing my frontend development and design skills.
