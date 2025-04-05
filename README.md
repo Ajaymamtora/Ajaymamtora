@@ -3,7 +3,7 @@
 
 I'm a developer who works with **Angular, Linux**, with a focus on **automation**.
 - **Angular Developer** – Building payroll software and enterprise applications.
----
+
 ## 🔧 Stack
 ![Neovim](https://img.shields.io/badge/Editor-Neovim-57A143?logo=neovim)
 ![Angular](https://img.shields.io/badge/Framework-Angular-DD0031?logo=angular)
